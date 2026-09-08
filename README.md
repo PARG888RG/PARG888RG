@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PARG888RG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Java, C#
+- 👀 I’m interested in Cibersecurity & Backend Development
+- 🌱 I’m currently learning Python, Java, C#, Javascript, React, Tailwind
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Blitz
+- 😄 Pronouns: Valrvn
 - ⚡ Fun fact: I'm swimmer and I talk Spanish jsjsjs
 
 <!---
