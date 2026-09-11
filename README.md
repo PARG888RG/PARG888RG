@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Java, C#, Javascript, React, Tailwind
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Valrvn
+- 😄 Pronouns: C0RVS
 - ⚡ Fun fact: I'm swimmer and I talk Spanish jsjsjs
 
 <!---
